@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IagooCesaar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/IagooCesaar/static/js/main.1805b4f9.chunk.js",
+    "main.js.map": "/IagooCesaar/static/js/main.1805b4f9.chunk.js.map",
+    "runtime-main.js": "/IagooCesaar/static/js/runtime-main.4938dff8.js",
+    "runtime-main.js.map": "/IagooCesaar/static/js/runtime-main.4938dff8.js.map",
+    "static/js/2.e9fff1c3.chunk.js": "/IagooCesaar/static/js/2.e9fff1c3.chunk.js",
+    "static/js/2.e9fff1c3.chunk.js.map": "/IagooCesaar/static/js/2.e9fff1c3.chunk.js.map",
+    "static/js/3.1fb858b8.chunk.js": "/IagooCesaar/static/js/3.1fb858b8.chunk.js",
+    "static/js/3.1fb858b8.chunk.js.map": "/IagooCesaar/static/js/3.1fb858b8.chunk.js.map",
+    "index.html": "/IagooCesaar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/IagooCesaar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e9fff1c3.chunk.js.LICENSE.txt": "/IagooCesaar/static/js/2.e9fff1c3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/IagooCesaar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4938dff8.js",
+    "static/js/2.e9fff1c3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1805b4f9.chunk.js"
+  ]
+}
