@@ -2,8 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![](https://komarev.com/ghpvc/?username=iagoocesaar&color=blueviolet&style=flat&label=Profile+Views)
+
 <!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iagoocesaar/iagoocesaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 In the project directory, you can run:
 
