@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Iago César
 
-I found in software development the pure emotion of being able to solve problems that I never thought would exist, simply because I could see the customer's satisfaction and surprise when he saw that his need was met and the content developed went beyond his expectations.
-Because of that, I can say that I love what I do, and I do it with love.
+I found in software development 💻 the pure emotion of being able to solve problems that I never thought would exist, simply because I could see the customer's satisfaction and surprise when he saw that his need was met and the content developed went beyond his expectations.
+Because of that, I can say that I love what I do, and I do it with love 💜💜💜.
 
 ## Ho am I ?
 
