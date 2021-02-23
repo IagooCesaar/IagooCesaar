@@ -1,49 +1,50 @@
 # Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Iago César
 
-I'm constructing my portfolios page in here: https://iagoocesaar.github.io/IagooCesaar
+I found in software development the pure emotion of being able to solve problems that I never thought would exist, simply because I could see the customer's satisfaction and surprise when he saw that his need was met and the content developed went beyond his expectations.
+Because of that, I can say that I love what I do, and I do it with love.
+
+## Ho am I ?
+
+When I turned 10, I had my first experience with a computer, when I was awarded, through a random selection, to take computer classes. I managed to complete the course with excellent grades, and my parents managed to save some money to buy our first computer.
+
+It wasn't a very good device, but it was enough for me to apply what I had learned in computer classes. I was always very curious and self-taught, so I used that machine to learn new things.
+
+In my first job, at the age of 14, I also had contact with a computer, and there was a specialized system for that company. I saw how the solution met everyone's needs and I thought it was incredible. The experience I got thanks to the classes I took made things a lot easier, and I was soon helping laypeople to use their computers in the company.
+
+In my third job I started my experience in an IT department, precisely offering support to the users of this other company. I improved my knowledge a lot and I was also able to know what a programmer's job was, albeit superficially. When I found out how systems were made I knew it was what I would like to do for the rest of my life.
+
+I enrolled in a college in my region and pursued higher education. Before I even finished, I was invited by my Database and Computer Networks teacher to do a job interview to join the development team. I was approved and that teacher also became my manager.
+
+That's how I became a systems developer, and since then I've been able to improve my technique a lot. I see this through the feedbacks I get from users of the solutions I developed.
+
+Now I have a new goal, which is to become an excellent developer for web application.
+
+> I'm [constructing my portfolios page](https://iagoocesaar.github.io/IagooCesaar), wich you can access by clicking on link, but still in the beginig...
 
 ![](https://komarev.com/ghpvc/?username=iagoocesaar&color=blueviolet&style=flat&label=Profile+Views)
 
-<!--
-**iagoocesaar/iagoocesaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## More about me:
 
-In the project directory, you can run:
+### Work
 
-### `yarn start`
+I currently work at [Sicoob Credivass](https://www.linkedin.com/company/sicoob-credivass/mycompany/), a credit cooperative (financial segment). I am the leader of the systems development department, which has two members, counting on me.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+We develop desktop applications using the Pascal language and the Delphi IDE. Our main objectives as developers are to computerize processes and obtain improvements in general, and we have been able to achieve this constantly.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Skills
 
-### `yarn test`
+I consider myself an excellent Delphi developer, I managed to get a lot of experience in understanding the user's needs and delivering beyond expectations.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+My goal is to improve my technique as a web developer. For this, I chose to study Html, JavaScript, CSS, Node.js. ReactJS. Next.js, and others.
 
-### `yarn build`
+### Contact
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+My social media:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Twitter Badge](https://img.shields.io/badge/-@IagooCesaar-00acee?style=flat-square&logo=Twitter&logoColor=white&link=mailto:iagocesar.sgs@gmail.com)](https://twitter.com/IagooCesaar)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![Gmail Badge](https://img.shields.io/badge/-iagocesar.sgs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagocesar.sgs@gmail.com)](mailto:iagocesar.sgs@gmail.com)
 
-### `yarn eject`
+[![LinkedIn Badge](https://img.shields.io/badge/-Iago%20Cesar%20F.%20Nogueira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagocesarfnogueira/)](https://www.linkedin.com/in/iagocesarfnogueira/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![Instagran Badge](https://img.shields.io/badge/-Iago%20Cesar%20F.%20Nogueira-indigo?style=flat-square&logo=instagram&link=https://www.instagram.com/iagocesarfnogueira/)](https://www.instagram.com/iagocesarfnogueira/)
