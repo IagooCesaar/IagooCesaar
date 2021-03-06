@@ -12,7 +12,7 @@ import Home from './pages/Home';
 
 const Routes: React.FC = () => {
   return (
-    <HashRouter basename="IagooCesaar" >
+    <HashRouter basename="/" >
       <Header />
       <Switch>
         <Route exact path="/">
