@@ -5,6 +5,7 @@ import {
   FiMail,
   FiLinkedin,
   FiGithub,
+  FiSend,
   FiMessageCircle,
   FiGlobe
 } from 'react-icons/fi'
@@ -40,6 +41,8 @@ const ContactCard: React.FC<ContactCardProps> = ({cardData}) => {
         return <FiGithub size={size} color={color} />  
       case "whatsapp":
         return <FiMessageCircle size={size} color={color} />         
+      case "telegram":
+        return <FiSend size={size} color={color} />         
   
       default:
         return <FiGlobe size={size} color={color} />

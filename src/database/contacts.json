@@ -22,5 +22,9 @@
   {
     "kind": "WhatsApp",
     "content": "https://api.whatsapp.com/send?phone=5535998155841"
+  },
+  {
+    "kind": "Telegram",
+    "content": "https://t.me/Iagoocesaar"
   }
 ]
