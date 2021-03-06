@@ -1,0 +1,28 @@
+.headerContainer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+
+  width: 100vw;
+  height: 3.5rem;
+  background: #202024;
+  color: var(--foreground);
+  font-size: 1.5rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.headerContainer nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 5rem;
+}
+
+.headerContainer nav li {
+  list-style: none;
+  display: flex;
+  justify-self: center;
+}
