@@ -1,5 +1,4 @@
 import React from 'react';
-import Header from '../components/Header';
 
 import '../styles/pages/home.css'
 import photo1 from '../photos/photo2.jpg'
@@ -8,9 +7,7 @@ import coffee from '../photos/coffee.png'
 
 const Home: React.FC = () => {
   return (
-    <>
-      <Header />
-      <div className="homeContainer">
+    <div className="homeContainer">
         <section>
           <div>
             <h1 className="photoCard back" >
@@ -29,7 +26,6 @@ const Home: React.FC = () => {
           <img src={coffee} alt=""/>         
         </main>
       </div>
-    </>
   );
 }
 
