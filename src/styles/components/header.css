@@ -16,13 +16,29 @@
 }
 
 .headerContainer nav {
+  height: 100%;
+
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 5rem;
 }
 
 .headerContainer nav li {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+
   list-style: none;
   display: flex;
   justify-self: center;
+  cursor: pointer;
+
+  transition: border-bottom 0.2s;
+  transition: text-shadow 0.2s;
+}
+
+.headerContainer nav li:hover {
+  border-bottom: 3px solid var(--purple);
+  text-shadow: 2px 2px 12px rgba(152, 139, 199, 0.8);
 }

@@ -24,7 +24,7 @@ const Home: React.FC = () => {
         <main>
           <div>
             <h2>Hello there!</h2>
-            <p>My name is Iago César, I am a software developer with special ability to turn coffee into code...</p>
+            <p>My name is <strong>Iago César</strong>, I am a software developer with special ability to turn coffee into code...</p>
           </div> 
           <img src={coffee} alt=""/>         
         </main>
