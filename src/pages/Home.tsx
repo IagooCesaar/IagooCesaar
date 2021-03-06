@@ -7,7 +7,7 @@ import coffee from '../photos/coffee.png'
 
 const Home: React.FC = () => {
   return (
-    <div className="homeContainer">
+    <div className="mainContainer homeContainer">
         <section>
           <div>
             <h1 className="photoCard back" >
