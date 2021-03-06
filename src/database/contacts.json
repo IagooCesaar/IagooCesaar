@@ -1,10 +1,26 @@
-{
-  "email": {
-    "icon": "mail",
-    "content": "iagocesar.nogueira@gmail.com"
+[
+  {
+    "kind": "Email",
+    "content": "mailto:iagocesar.nogueira@gmail.com"
   },
-  "twtter": {
-    "icon": "twitter",
+  {
+    "kind": "Twitter",
     "content": "https://twitter.com/IagooCesaar"
+  },
+  {
+    "kind": "LinkedIn",
+    "content": "https://www.linkedin.com/in/iagocesarfnogueira/"
+  },
+  {
+    "kind": "Instagram",
+    "content": "https://www.instagram.com/iagocesarfnogueira/"
+  },
+  {
+    "kind": "Github",
+    "content": "https://github.com/IagooCesaar"
+  },
+  {
+    "kind": "WhatsApp",
+    "content": "https://api.whatsapp.com/send?phone=5535998155841"
   }
-}
+]
