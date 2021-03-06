@@ -1,6 +1,6 @@
 import React from 'react'
 import {
-  BrowserRouter,
+  HashRouter,
   Switch,
   Route
 } from 'react-router-dom';
@@ -12,7 +12,7 @@ import Home from './pages/Home';
 
 const Routes: React.FC = () => {
   return (
-    <BrowserRouter basename="IagooCesaar" >
+    <HashRouter basename="IagooCesaar" >
       <Header />
       <Switch>
         <Route exact path="/">
@@ -22,7 +22,7 @@ const Routes: React.FC = () => {
           <Contact />
         </Route>
       </Switch>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
 
