@@ -17,10 +17,15 @@
 .homeContainer section .photoCard {
   width: 350px;
   height: 350px;
+
   padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   background: var(--selection);
-  box-shadow: 20px 20px 15px rgba(25, 22, 34, 0.8);
+  box-shadow: 10px 10px 15px rgba(25, 22, 34, 0.6),
+    -10px -10px 15px rgba(25, 22, 34, 0.6);
 }
 
 .photoCard.back {
