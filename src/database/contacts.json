@@ -1,30 +1,37 @@
 [
   {
     "kind": "Email",
-    "content": "mailto:iagocesar.nogueira@gmail.com"
+    "content": "mailto:iagocesar.nogueira@gmail.com",
+    "color": "redGoogle"
   },
   {
     "kind": "Twitter",
-    "content": "https://twitter.com/IagooCesaar"
+    "content": "https://twitter.com/IagooCesaar",
+    "color": "blueTwitter"
   },
   {
     "kind": "LinkedIn",
-    "content": "https://www.linkedin.com/in/iagocesarfnogueira/"
+    "content": "https://www.linkedin.com/in/iagocesarfnogueira/",
+    "color": "blueLinkedin"
   },
   {
     "kind": "Instagram",
-    "content": "https://www.instagram.com/iagocesarfnogueira/"
+    "content": "https://www.instagram.com/iagocesarfnogueira/",
+    "color": "purpleInstagram"
   },
   {
     "kind": "Github",
-    "content": "https://github.com/IagooCesaar"
+    "content": "https://github.com/IagooCesaar",
+    "color": "purpleGithub"
   },
   {
     "kind": "WhatsApp",
-    "content": "https://api.whatsapp.com/send?phone=5535998155841"
+    "content": "https://api.whatsapp.com/send?phone=5535998155841",
+    "color": "greenWhatsapp"
   },
   {
     "kind": "Telegram",
-    "content": "https://t.me/Iagoocesaar"
+    "content": "https://t.me/Iagoocesaar",
+    "color": "blueTelegram"
   }
 ]

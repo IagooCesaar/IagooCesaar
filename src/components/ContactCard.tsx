@@ -15,12 +15,13 @@ import '../styles/components/contactCard.css';
 interface ContactCardProps {
   cardData: {
     kind: string,
-    content: string
+    content: string,
+    color?: string
   }
 }
 
 const ContactCard: React.FC<ContactCardProps> = ({cardData}) => {
-  const {content, kind} = cardData;
+  const { content, kind, color } = cardData;
   
   function myIcon() {
     const size = "68px"
@@ -50,7 +51,7 @@ const ContactCard: React.FC<ContactCardProps> = ({cardData}) => {
   }
 
   return (
-    <div className="contactCard" >
+    <div className={`contactCard ${color||'green'}Shadow`} >
       <a 
         href={content} 
         target="_blank" 

@@ -4,8 +4,32 @@
   justify-content: center;
   align-items: center;
 }
-.contactCard:hover {
-  filter: drop-shadow(0px 0px 20px rgba(103, 228, 128, 0.9));
+.contactCard.greenWhatsappShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(37, 211, 102, 0.9));
+}
+
+.contactCard.blueTwitterShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(0, 172, 238, 0.9));
+}
+
+.contactCard.blueLinkedinShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(14, 118, 168, 0.9));
+}
+
+.contactCard.blueTelegramShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(0, 136, 204, 0.9));
+}
+
+.contactCard.purpleInstagramShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(114, 50, 189, 0.9));
+}
+
+.contactCard.purpleGithubShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(115, 73, 147, 0.9));
+}
+
+.contactCard.redGoogleShadow:hover {
+  filter: drop-shadow(0px 0px 20px rgba(234, 67, 52, 0.9));
 }
 
 .contactCard a {
