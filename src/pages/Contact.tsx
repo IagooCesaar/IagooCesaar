@@ -5,6 +5,8 @@ import '../styles/pages/contact.css'
 import contacts from '../database/contacts.json'
 import { ContactCard } from '../components/ContactCard';
 
+import telephone from '../photos/telephone.png'
+
 const Contact: React.FC = () => {
   console.log(contacts)
   return (
@@ -14,6 +16,7 @@ const Contact: React.FC = () => {
           <h2>Contact</h2>
           <p>If you want to contact me for networking, to offer a job, or just to chat, try one of the following means of contact:</p>
         </div>
+        <img src={telephone} alt="contact"/>
       </section>
       <main>
         <ul>
