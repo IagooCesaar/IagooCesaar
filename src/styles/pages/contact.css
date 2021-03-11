@@ -20,6 +20,9 @@
 
 .contactContainer section > img {
   mix-blend-mode: lighten;
+
+  width: 100%;
+  margin-bottom: 5px;
 }
 
 .contactContainer section > div {
